@@ -1,0 +1,10 @@
+# top-most EditorConfig file
+root=true
+
+[no_style\Test.cs]
+generated_code = true
+
+[*.cs]
+dotnet_diagnostic.IDE0161.severity = warning
+csharp_style_namespace_declarations=file_scoped
+
