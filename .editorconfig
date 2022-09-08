@@ -1,7 +1,7 @@
 # top-most EditorConfig file
 root=true
 
-[no_style\Test.cs]
+[{no_style/**}]
 generated_code = true
 
 [*.cs]
