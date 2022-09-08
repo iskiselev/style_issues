@@ -5,6 +5,6 @@ root=true
 generated_code = true
 
 [*.cs]
-dotnet_diagnostic.IDE0161.severity = warning
+dotnet_diagnostic.IDE0161.severity = error
 csharp_style_namespace_declarations=file_scoped
 
